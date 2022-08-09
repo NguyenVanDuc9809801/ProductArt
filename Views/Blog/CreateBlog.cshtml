@@ -1,0 +1,27 @@
+ 
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<User> userManager
+ <div class="blog container">
+        <form method="post">
+            <div class="mb-3">
+                <label for="Title" class="form-label">Blog Title</label>
+                <input type="text" name="Title" class="form-control" id="Title" placeholder="Title">
+              </div>
+              <div class="mb-3">
+                <label for="Type" class="form-label">Blog Type</label>
+                <input type="text" name="Type" class="form-control" id="Title" placeholder="Type">
+              </div>
+              <div class="mb-3">
+                <label for="content" class="form-label">Content</label>
+                <textarea class="form-control" name="Content" id="content" rows="100" ></textarea>
+              </div>
+              <input type="submit" class="btn btn-primary" value="submit">
+          </form>
+    </div>
+      <script>
+        ClassicEditor
+            .create( document.querySelector( '#content' ) )
+            .catch( error => {
+                console.error( error );
+            } );
+    </script>

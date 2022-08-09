@@ -1,0 +1,82 @@
+
+
+
+
+.art-card-item[b-c5h6yte0qp] {
+    background-color: #EEECC9;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 232px;
+}
+
+.card-image[b-c5h6yte0qp] {
+    width: 100%;
+}
+
+    .card-image img[b-c5h6yte0qp] {
+        border-radius: 10px 10px 0px 0px;
+        border-bottom: 1px solid #D9D9D9;
+        width: 100%;
+    }
+
+.card-artName[b-c5h6yte0qp] {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.card-authorName[b-c5h6yte0qp] {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.author[b-c5h6yte0qp] {
+    display: flex;
+}
+
+.author-icon[b-c5h6yte0qp] {
+    transform: scale(0.5);
+}
+
+.author p[b-c5h6yte0qp] {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.card-authorName p[b-c5h6yte0qp] {
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 10px;
+}
+
+.art-price[b-c5h6yte0qp] {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.price[b-c5h6yte0qp] {
+    display: flex;
+}
+
+.price-icon[b-c5h6yte0qp] {
+    margin: 10px 0px 0px 10px;
+}
+
+.price p[b-c5h6yte0qp] {
+    margin: 0px 0px 0px 10px;
+}
+
+.art-price p[b-c5h6yte0qp] {
+    padding: 5px 10px 0px 0px;
+}
+
+.card-item-footers[b-c5h6yte0qp] {
+    margin-top: auto;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+
+.likes-icon[b-c5h6yte0qp] {
+    margin-top: 5px;
+}

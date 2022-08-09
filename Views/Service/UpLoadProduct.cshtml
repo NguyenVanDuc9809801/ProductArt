@@ -1,0 +1,53 @@
+@model Main_project.Dtos.UpLoadProductDtos
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<User> userManager
+<div class="form container d-flex justify-content-center align-items-center">
+  <form method="post" href="/Service/UpLoadProduct" enctype="multipart/form-data"
+    class="uploadProduct d-flex flex-column justify-content-center align-items-center">
+    <input type="hidden" asp-for=@Model.AuthorId value=@userManager.GetUserId(User) />
+    <input type="hidden" asp-for=@Model.AuthorName value=@userManager.GetUserName(User) />
+    <div class="upload-head">
+      <div class="left-upload input-upload">
+        <div class="input-group  mb-5">
+          <span class="input-group-text" id="inputGroup-sizing-default">Product Name</span>
+          <input type="text" class="form-control" asp-for=@Model.ProductName aria-label="Sizing example input"
+            aria-describedby="inputGroup-sizing-default">
+        </div>
+        <input asp-for=@Model.ProductFile />
+      </div>
+      <div class="rigth-upload input-upload">
+        <div class="input-group  mb-5">
+          <span class="input-group-text" id="inputGroup-sizing-default">Product Title</span>
+          <input type="text" asp-for=@Model.ProductTitle class="form-control" aria-label="Sizing example input"
+            aria-describedby="inputGroup-sizing-default">
+        </div>
+        <div class="input-group  mb-5 ">
+          <span class="input-group-text" id="inputGroup-sizing-default">Product Type</span>
+          <input type="text" asp-for=@Model.ProductType class="form-control" aria-label="Sizing example input"
+            aria-describedby="inputGroup-sizing-default">
+          <span class="input-group-text" id="inputGroup-sizing-default">Content Type</span>
+          <input type="text" asp-for=@Model.ContentType class="form-control" aria-label="Sizing example input"
+            aria-describedby="inputGroup-sizing-default">
+        </div>
+      </div>
+    </div>
+    <div class="mb-3 text-area">
+      <label for="exampleFormControlTextarea1" class="form-label">Product Description</label>
+      <textarea class="form-control" asp-for=@Model.ProductDescription id="exampleFormControlTextarea1"
+        rows="4"></textarea>
+    </div>
+    <div class="upload-end">
+      <div class="price">
+        <div class="input-group  mb-5">
+          <span class="input-group-text" id="inputGroup-sizing-default">Price</span>
+          <input type="text" asp-for=@Model.Price class="form-control" aria-label="Sizing example input"
+            aria-describedby="inputGroup-sizing-default">
+        </div>
+      </div>
+      <div class="submit">
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </div>
+    </div>
+
+  </form>
+</div>

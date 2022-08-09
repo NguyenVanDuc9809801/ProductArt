@@ -1,0 +1,18 @@
+@model List<Main_project.Dtos.BlogInfoDtos>
+<div class="container mt-5">
+    <h3>List blog</h3>
+    <a href="/Blog/CreateBlog">
+        <button class="btn btn-primary">Create Blog</button>
+    </a>
+    @foreach (var blog in Model)
+    {
+        <div class="card" style="width: 80%;">
+            <div class="card-body">
+                <h5 class="card-title">@blog.Tilte</h5>
+                <p class="card-text">@blog.Type</p>
+                <p class="card-text">@blog.Time</p>
+                <a href="BlogId/@blog.Id" class="card-link">detail</a>
+            </div>
+        </div>
+    }
+</div>

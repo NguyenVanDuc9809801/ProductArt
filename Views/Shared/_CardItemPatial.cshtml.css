@@ -1,0 +1,82 @@
+﻿
+
+
+
+.art-card-item {
+    background-color: #EEECC9;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 232px;
+}
+
+.card-image {
+    width: 100%;
+}
+
+    .card-image img {
+        border-radius: 10px 10px 0px 0px;
+        border-bottom: 1px solid #D9D9D9;
+        width: 100%;
+    }
+
+.card-artName {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.card-authorName {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.author {
+    display: flex;
+}
+
+.author-icon {
+    transform: scale(0.5);
+}
+
+.author p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.card-authorName p {
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 10px;
+}
+
+.art-price {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.price {
+    display: flex;
+}
+
+.price-icon {
+    margin: 10px 0px 0px 10px;
+}
+
+.price p {
+    margin: 0px 0px 0px 10px;
+}
+
+.art-price p {
+    padding: 5px 10px 0px 0px;
+}
+
+.card-item-footers {
+    margin-top: auto;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+
+.likes-icon {
+    margin-top: 5px;
+}

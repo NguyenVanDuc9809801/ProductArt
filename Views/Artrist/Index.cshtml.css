@@ -1,0 +1,162 @@
+ul{
+    height: 100%;
+}
+ul li{
+    list-style: none;
+}
+.link{
+    width: 100%;
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Aladin', cursive;
+    text-justify: center;
+}
+.artrist-header{
+    width: 100%;
+    height: 120px;
+    background-color: #D9D9D9;
+    padding: 10px;
+    margin-top: 50px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+}
+.left-header{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.phone,.mail{
+    padding-left: 20px;
+}
+.right-header{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.start{
+    color: white;
+}
+.star-select{
+    color: yellow;
+}
+.avatar{
+  margin-top: -44px;
+}
+.circle-avatar{
+    
+}
+.content{
+    margin-top: 20px;
+    background-color: #D9D9D9;
+    padding-top: 20px;
+}
+
+.art{
+    margin:20px 40px 0px 40px;
+    background-color: #ffffff;
+    padding: 20px 0px 20px 0px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    
+}
+.art-title{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.art-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+}
+.art-types{
+    display: flex;
+    justify-content: space-between;
+}
+.art-types li{
+    margin-left: 20px;
+}
+.art-more{
+    display: flex;
+    margin-right: 30px;
+
+}
+
+.art-cards{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.art-card-item{
+    background-color: #EEECC9;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 232px;
+}
+.card-image{
+    width: 100%;
+}
+.card-image img{
+    border-radius: 10px 10px 0px 0px;
+    border-bottom: 1px solid #D9D9D9;
+    width: 100%;
+ 
+}
+
+.card-artName{
+    padding-top: 10px;
+   text-align: center;
+}
+.card-authorName{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.author{
+    display: flex;
+}
+.author-icon{
+    transform: scale(0.5);
+}
+.author p{
+    text-align: center;
+    padding-top: 10px;
+}
+.card-authorName p{
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 10px;
+}
+
+.art-price{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.price{
+    display: flex;
+}
+.price-icon{
+    margin: 10px 0px 0px 10px;
+}
+.price p{
+    margin: 0px 0px 0px 10px;
+}
+.art-price p{
+    padding: 5px 10px 0px 0px;
+}
+
+.card-item-footers{
+    margin-top: auto;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+
+.likes-icon{
+margin-top: 5px;
+}

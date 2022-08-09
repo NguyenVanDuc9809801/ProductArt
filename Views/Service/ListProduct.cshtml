@@ -1,0 +1,16 @@
+@model List<Main_project.Dtos.ProductInfoDtos>
+
+<h4>List Product</h4>
+
+@foreach (var product in Model)
+{
+    <ul>
+        <li>Productname: @product.ProductName</li>
+        <li>Authorname: @product.AuthorName</li>
+        <li>FilePath: @product.filePath</li>
+        <li>Price: @product.Price</li>
+        <li>Likes: @product.likes</li>
+        <li>Comment: @product.Comments</li>
+    </ul>
+    <br/>
+}

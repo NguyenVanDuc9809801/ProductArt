@@ -1,0 +1,78 @@
+.menu{
+
+}
+ul{
+    height: 100%;
+}
+ul li{
+    list-style: none;
+}
+.link{
+    width: 100%;
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Aladin', cursive;
+    text-justify: center;
+}
+.search{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.search-content{
+
+}
+.search-input-content{
+    width: 100%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    background-color: rgba(245,245,245,1);
+    
+}
+.search-logo{
+    padding-left: 10px;
+}
+.form{
+    background-color: #d9d9d9;
+    margin-top: 30px;
+}
+.uploadProduct{
+   
+    height: 565px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.upload-head{
+    padding-top: 40px;
+    margin-top: 10px;
+    justify-content: space-around;
+    display: flex;
+    width: 1200px;
+}
+.input-upload{
+    width: 40%;
+}
+.input-file{
+    background-color: aqua;
+}
+.text-area{
+    width: 90%;
+   
+}
+.price{
+   
+}
+.submit{
+ 
+}
+.upload-end{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}

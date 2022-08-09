@@ -1,0 +1,162 @@
+ul[b-4t9nnugrda]{
+    height: 100%;
+}
+ul li[b-4t9nnugrda]{
+    list-style: none;
+}
+.link[b-4t9nnugrda]{
+    width: 100%;
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Aladin', cursive;
+    text-justify: center;
+}
+.artrist-header[b-4t9nnugrda]{
+    width: 100%;
+    height: 120px;
+    background-color: #D9D9D9;
+    padding: 10px;
+    margin-top: 50px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    display: flex;
+}
+.left-header[b-4t9nnugrda]{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.phone[b-4t9nnugrda],.mail[b-4t9nnugrda]{
+    padding-left: 20px;
+}
+.right-header[b-4t9nnugrda]{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.start[b-4t9nnugrda]{
+    color: white;
+}
+.star-select[b-4t9nnugrda]{
+    color: yellow;
+}
+.avatar[b-4t9nnugrda]{
+  margin-top: -44px;
+}
+.circle-avatar[b-4t9nnugrda]{
+    
+}
+.content[b-4t9nnugrda]{
+    margin-top: 20px;
+    background-color: #D9D9D9;
+    padding-top: 20px;
+}
+
+.art[b-4t9nnugrda]{
+    margin:20px 40px 0px 40px;
+    background-color: #ffffff;
+    padding: 20px 0px 20px 0px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    
+}
+.art-title[b-4t9nnugrda]{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.art-center[b-4t9nnugrda]{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+}
+.art-types[b-4t9nnugrda]{
+    display: flex;
+    justify-content: space-between;
+}
+.art-types li[b-4t9nnugrda]{
+    margin-left: 20px;
+}
+.art-more[b-4t9nnugrda]{
+    display: flex;
+    margin-right: 30px;
+
+}
+
+.art-cards[b-4t9nnugrda]{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.art-card-item[b-4t9nnugrda]{
+    background-color: #EEECC9;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 232px;
+}
+.card-image[b-4t9nnugrda]{
+    width: 100%;
+}
+.card-image img[b-4t9nnugrda]{
+    border-radius: 10px 10px 0px 0px;
+    border-bottom: 1px solid #D9D9D9;
+    width: 100%;
+ 
+}
+
+.card-artName[b-4t9nnugrda]{
+    padding-top: 10px;
+   text-align: center;
+}
+.card-authorName[b-4t9nnugrda]{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.author[b-4t9nnugrda]{
+    display: flex;
+}
+.author-icon[b-4t9nnugrda]{
+    transform: scale(0.5);
+}
+.author p[b-4t9nnugrda]{
+    text-align: center;
+    padding-top: 10px;
+}
+.card-authorName p[b-4t9nnugrda]{
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 10px;
+}
+
+.art-price[b-4t9nnugrda]{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.price[b-4t9nnugrda]{
+    display: flex;
+}
+.price-icon[b-4t9nnugrda]{
+    margin: 10px 0px 0px 10px;
+}
+.price p[b-4t9nnugrda]{
+    margin: 0px 0px 0px 10px;
+}
+.art-price p[b-4t9nnugrda]{
+    padding: 5px 10px 0px 0px;
+}
+
+.card-item-footers[b-4t9nnugrda]{
+    margin-top: auto;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+
+.likes-icon[b-4t9nnugrda]{
+margin-top: 5px;
+}

@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Main_project
+build_property.RootNamespace = Main_project
+build_property.ProjectDir = d:\Project\Art_web\Main_project\Main_project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\Project\Art_web\Main_project\Main_project
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Blog/BlogId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nSWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Blog/CreateBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDcmVhdGVCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Blog/GetBlogs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xHZXRCbG9ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Blog/UpdateBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xVcGRhdGVCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Service/ListProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxMaXN0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-sftv17dcdv
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-dknx9z179q
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Account/UpdateInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVcGRhdGVJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-uikrf5tjen
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Artrist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0cmlzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-4t9nnugrda
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-m56xrk4ycc
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Product/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-rge1o7gxci
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Service/UpLoadProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxVcExvYWRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-v7n7zw6bu8
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Shared/_CardItemPatial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJkSXRlbVBhdGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-c5h6yte0qp
+
+[d:/Project/Art_web/Main_project/Main_project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-33y8i9uw2w

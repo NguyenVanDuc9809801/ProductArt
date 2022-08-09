@@ -1,0 +1,107 @@
+ul[b-dknx9z179q]{
+    height: 100%;
+}
+ul li[b-dknx9z179q]{
+    list-style: none;
+}
+.link[b-dknx9z179q]{
+    width: 100%;
+    color: black;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Aladin', cursive;
+    text-justify: center;
+}
+.content-login[b-dknx9z179q]{
+    margin: 30px 100px 20px 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.title[b-dknx9z179q]{
+    width: 45%;
+    padding: 0px 5%;
+    height: 566px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+}
+.title h2[b-dknx9z179q]{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form[b-dknx9z179q]{
+    width: 45%;
+    padding: 0px 5%;
+    height: 566px;
+    display: flex;
+    flex-direction: column;
+    background-color: #D9D9D9;
+    align-items: center;
+    border-radius: 20px;
+}
+.form h2[b-dknx9z179q]{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.form form[b-dknx9z179q]{
+    display: flex;
+    flex-direction: column;
+}
+
+.form form input[b-dknx9z179q] {
+    height: 48px;
+    width: 365px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.Email[b-dknx9z179q]{
+    padding-left: 10px;
+}
+.Password[b-dknx9z179q]{
+    padding-left: 10px;
+}
+.ConfirmPassword[b-dknx9z179q]{
+    padding-left: 10px;
+}
+.register[b-dknx9z179q]{
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #86D06C;
+    color: white;
+}
+.forgot-password[b-dknx9z179q]{
+    text-align: center;
+    line-height: 20px;
+    
+}
+.Create-account[b-dknx9z179q]{
+    text-decoration: none;
+    height: 48px;
+    width: 365px;
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    background-color: #8AC077;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.icon-login[b-dknx9z179q]{
+    margin-top: 30px;
+    height: 48px;
+    width: 365px;
+    display: flex;
+    justify-content: space-around;
+}
